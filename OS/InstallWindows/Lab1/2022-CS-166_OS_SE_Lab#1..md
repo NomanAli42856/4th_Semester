@@ -1,0 +1,152 @@
+# Task 1
+
+### Installing Ubuntu Virtualization on Windows using VMware
+
+#### 1. Download VMware Workstation Player
+
+- Go to the [VMware website](https://www.vmware.com/products/workstation-player.html).
+
+- Download VMware Workstation Player suitable for your Windows system.
+
+  ![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\1.png){.center width=50%}
+
+#### 2. Install VMware Workstation Player
+
+- Run the VMware Workstation Player installer.
+
+- Follow the installation instructions provided by the installer.
+
+- Click "Finish" when the installation is complete.
+
+  ![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\4.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\5.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\6.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\7.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\8.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\9.png){.center width=50%}
+
+#### 3. Download Ubuntu ISO Image
+
+- Visit the [Ubuntu website](https://ubuntu.com/download/desktop).
+
+- Download the Ubuntu desktop version as an ISO image.
+
+  ![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\2.png){.center width=50%}
+
+#### 4. Create a New Virtual Machine
+
+- Open VMware Workstation Player.
+
+- Click on "Create a New Virtual Machine" or "New Virtual Machine" button.
+
+- Choose "Typical" setup.
+
+- Browse and select the Ubuntu ISO image you downloaded earlier.
+
+  ![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\11.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\12.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\13.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\14.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\15.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\16.png){.center width=50%}
+
+![vmware](E:\Noman Ali\4th Semester\OS Lab\Lab1\18.png){.center width=50%}
+
+#### 5. Choose Guest Operating System
+
+- Select "Linux" and "Ubuntu" as the guest operating system.
+
+#### 6. Customize Hardware (Optional)
+
+- Allocate the amount of memory (RAM) and number of CPU cores for your virtual machine.
+- Create a new virtual disk or use an existing one.
+
+#### 7. Install Ubuntu
+
+- Start the virtual machine.
+- Follow the on-screen instructions to install Ubuntu on the virtual disk.
+- Choose language, keyboard layout, and other preferences.
+- Install Ubuntu when prompted.
+
+#### 8. Complete Installation
+
+- After installation, restart the virtual machine.
+- Log in using the credentials you set up during installation.
+
+You now have Ubuntu running as a virtual machine on your Windows system using VMware Workstation Player!
+
+## Task 2
+
+### Execution of All C and C++ files :
+
+- Create a file with any name with extension c.
+
+- Write the following code in the file.
+
+  ```c
+  #include <stdio.h>
+  void main()
+  {
+      printf("Hello!, This is my first C program with Ubuntu 11.10");
+  }
+  ```
+
+- Save the file. (Crtl + S).
+
+- Compile the file using the following line in terminal.
+
+  ​			gcc  -o exe_file your_file.c
+
+- Run the file using the command 
+
+  ​			./ exe_file		
+
+  ##### C-Program Output : 
+
+![test.c output](E:\Noman Ali\4th Semester\OS Lab\Lab1\c_Code_Run.png){.center width=50%}
+
+##### 		
+
+- Write the following code in the text editor
+
+  ```c++
+  #include <iostream>
+  using namespace std;
+  main()
+  {
+      cout << "Testing G++ Compiler!!!!!!!";
+      cout << "Yes, G++ Compiler Working Perfectly!!!!!!";
+  }
+  ```
+
+##### 		
+
+- Save the file. (Crtl + S).
+
+- Compile the file using the following line in terminal.
+
+  ​			g++  -o exe_file your_file.c
+
+- Run the file using the command 
+
+  ​			./ exe_file
+
+##### 			C++ Program Output :
+
+![test.c output](E:\Noman Ali\4th Semester\OS Lab\Lab1\c++_Code_Run.png){.center width=50%}
+
+## Task 3
+
+### Git Link :
+
+[My git hub repository link](https://github.com/NomanAli42856/4th_Semester)
