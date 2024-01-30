@@ -18,17 +18,17 @@
 
 - Click "Finish" when the installation is complete.
 
-  ![vmware](.\Images\4.png){.center width=50%}
+  ![vmware](Images/4.png){.center width=50%}
 
-![vmware](.\Lab1\Images\5.png){.center width=50%}
+![vmware](Images/5.png){.center width=50%}
 
-![vmware](.\Lab1\Images\6.png){.center width=50%}
+![vmware](Images/6.png){.center width=50%}
 
-![vmware](.\Lab1\Images\7.png){.center width=50%}
+![vmware](Images/7.png){.center width=50%}
 
-![vmware](.\Lab1\Images\Lab1\8.png){.center width=50%}
+![vmware](Images/8.png){.center width=50%}
 
-![vmware](.\Lab1\Images\9.png){.center width=50%}
+![vmware](Images/9.png){.center width=50%}
 
 #### 3. Download Ubuntu ISO Image
 
@@ -36,7 +36,7 @@
 
 - Download the Ubuntu desktop version as an ISO image.
 
-  ![vmware](.\Lab1\Images\2.png){.center width=50%}
+  ![vmware](Images/2.png){.center width=50%}
 
 #### 4. Create a New Virtual Machine
 
@@ -48,19 +48,19 @@
 
 - Browse and select the Ubuntu ISO image you downloaded earlier.
 
-  ![vmware](.\Lab1\Images\11.png){.center width=50%}
+  ![vmware](Images/11.png){.center width=50%}
 
-![vmware](.\Lab1\Images\12.png){.center width=50%}
+![vmware](Images/12.png){.center width=50%}
 
-![vmware](.\Lab1\Images\13.png){.center width=50%}
+![vmware](Images/13.png){.center width=50%}
 
-![vmware](.\Lab1\Images\14.png){.center width=50%}
+![vmware](Images/14.png){.center width=50%}
 
-![vmware](.\Lab1\Images\15.png){.center width=50%}
+![vmware](Images/15.png){.center width=50%}
 
-![vmware](.\Lab1\Images\16.png){.center width=50%}
+![vmware](Images/16.png){.center width=50%}
 
-![vmware](.\Lab1\Images\18.png){.center width=50%}
+![vmware](Images/18.png){.center width=50%}
 
 #### 5. Choose Guest Operating System
 
@@ -113,7 +113,7 @@ You now have Ubuntu running as a virtual machine on your Windows system using VM
 
   ##### C-Program Output : 
 
-![test.c output](.\Lab1\Images\c_Code_Run.png){.center width=50%}
+![test.c output](Images/c_Code_Run.png){.center width=50%}
 
 ##### 		
 
@@ -143,7 +143,7 @@ You now have Ubuntu running as a virtual machine on your Windows system using VM
 
 ##### 			C++ Program Output :
 
-![test.cpp output](.\Lab1\Images\c++_Code_Run.png){.center width=50%}
+![test.cpp output](Images/c++_Code_Run.png){.center width=50%}
 
 ## Task 3
 
