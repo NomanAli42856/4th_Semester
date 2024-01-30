@@ -143,7 +143,7 @@ You now have Ubuntu running as a virtual machine on your Windows system using VM
 
 ##### 			C++ Program Output :
 
-![test.c output](.\Lab1\Images\c++_Code_Run.png){.center width=50%}
+![test.cpp output](.\Lab1\Images\c++_Code_Run.png){.center width=50%}
 
 ## Task 3
 
