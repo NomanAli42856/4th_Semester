@@ -18,7 +18,7 @@
 
 - Click "Finish" when the installation is complete.
 
-  ![vmware](.\Lab1\Images\4.png){.center width=50%}
+  ![vmware](.\Images\4.png){.center width=50%}
 
 ![vmware](.\Lab1\Images\5.png){.center width=50%}
 
