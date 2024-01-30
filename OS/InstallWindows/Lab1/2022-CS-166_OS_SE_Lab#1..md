@@ -8,7 +8,7 @@
 
 - Download VMware Workstation Player suitable for your Windows system.
 
-  ![vmware](Lab1\Images\1.png){.center width=50%}
+  ![vmware](Lab1/Images/1.png){.center width=50%}
 
 #### 2. Install VMware Workstation Player
 
