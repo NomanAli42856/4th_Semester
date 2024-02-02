@@ -8,15 +8,15 @@ Command  :: **touch 19f-2022CS166.txt**
 
 ![vmware](Images/1.png){.center width=50%}
 
-![vmware](Images\2.png){.center width=50%}
+![vmware](Images/2.png){.center width=50%}
 
 #### 2. To Create another file
 
 Command  :: **touch noman.txt**
 
-![vmware](Images\3.png){.center width=50%}
+![vmware](Images/3.png){.center width=50%}
 
-![vmware](Images\4.png){.center width=50%}
+![vmware](Images/4.png){.center width=50%}
 
 #### 3. To merge both files
 
