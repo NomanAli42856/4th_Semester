@@ -6,7 +6,7 @@
 
 Command  :: **touch 19f-2022CS166.txt**
 
-![vmware](Images\1.png){.center width=50%}
+![vmware](Images/1.png){.center width=50%}
 
 ![vmware](Images\2.png){.center width=50%}
 
