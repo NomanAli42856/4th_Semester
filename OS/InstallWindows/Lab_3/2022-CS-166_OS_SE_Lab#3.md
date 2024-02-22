@@ -4,7 +4,7 @@
 
 ###### 1.  Create a simple script which will take two command line arguments and  then multiply them together
 
-![vmware](Images/1_1.png){.center width=50%}
+![vmware](Images/1_1.PNG){.center width=50%}
 
 ![vmware](Images/1_1_output.png){.center width=50%}
 
